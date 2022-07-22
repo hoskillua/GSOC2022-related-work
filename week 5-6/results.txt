@@ -1,0 +1,7 @@
+N = 100000
+minmax approx:        err = 8004.42, time = 3748
+sampled res=1x1(=1):  err = 8693.2, time = 1832
+sampled res=2x2(=3):  err = 3883.62, time = 3129
+sampled res=3x3(=6):  err = 2337.38, time = 5376
+sampled res=5x5(=15): err = 1205.56, time = 9956
+sampled res=9x9(=45): err = 565.287, time = 24889
